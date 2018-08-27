@@ -1,0 +1,8 @@
+Aplicativo criado para analisar os objetos extraídos do SILOG.
+
+Informa em tela os objetos não entregues, com possibilidade de enviar e-mail às unidades
+
+v: 0.1.0.0
+n: APLI
+g: N
+a: S
